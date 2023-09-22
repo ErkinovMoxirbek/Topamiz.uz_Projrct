@@ -8,7 +8,7 @@ public class NomTopamizProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NomTopamizProjectApplication.class, args);
-		System.out.println("Salom");
+
 	}
 
 }
